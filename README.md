@@ -1,2 +1,2 @@
 # coursera-test
-Coursera Text Responsibility
+Coursera Text Repository
